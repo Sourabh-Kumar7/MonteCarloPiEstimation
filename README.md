@@ -22,3 +22,9 @@ This repository provides a simple Python script that employs the Monte Carlo met
 2. Run the Python script to estimate π:
    ```bash
    python estimate_pi.py
+
+
+The longer you run it the better would be its value.
+  
+To compare the value use: <a href="http://www.geom.uiuc.edu/%7Ehuberty/math5337/groupe/digits.html">100,000 Digits of Pi</a>
+
